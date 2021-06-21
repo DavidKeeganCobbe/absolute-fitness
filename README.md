@@ -19,8 +19,8 @@ I have taken the approach to create a website for an imagined gym in Dublin, Ire
 2. As a first time user, I want to be able to navigate my way through the website with relative ease.
 3. As a first time user, I want to be able to find out important details such as what gym equipment is available, what classes and personal training is available.
 4. As a first time user, I want to be able to find out the location of the gym.
-5. As a first time user, I want to be able to see a gallery of events and images of the gym.
-6. As a first time user, I want to be able to find the social media links of the gym to find out if they are trustworthy.
+5. As a first time user, I want to be able to see an image gallery of the gym.
+6. As a first time user, I want to be able to find the social media links of the gym.
 
 - #### Returning Visitor Goals
 1. As a Returning Visitor, I want to be able to 
