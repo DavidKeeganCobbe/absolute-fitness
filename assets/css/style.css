@@ -14,7 +14,13 @@ body h1 {
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 200;
+    color: #0a0d0e;
 }
 
+/* color orange #e7833b for font */
 
+h1 {
+    color: #e7833b;
+    font-size: 100px;
+}
 
