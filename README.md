@@ -42,5 +42,13 @@ I have taken the approach to create a website for an imagined gym in Dublin, Ire
 + As a Returning Visitor, I want to be able to 
 
 ## Frequent User Goals
-1. As a Frequent User, I want to be able to 
 
++ As a Frequent User, I want to be able to return and find information with ease.
+
++ As a frequent user, I want to be able to book a class using a form on the contact page. 
+
+## Typography
+
+I decided to go with my main font family of Teko. I decided on Teko because I feel it has a strong element to it, and the website being a gym, strong feels fitting for the purpose.
+
+I chose Montserrat for all my secondary text and headings, I feel these compliment each other well.
