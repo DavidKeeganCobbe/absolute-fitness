@@ -37,6 +37,11 @@
     border-bottom: 1px solid #e7833b;
 }
 
+/* Active style class */
+
+.active {
+    border-bottom: 1px solid #e7833b;
+}
 
 
 /* Headings and Logo style rules */
