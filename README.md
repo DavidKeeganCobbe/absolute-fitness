@@ -73,3 +73,7 @@ I chose to go with Montserrat for all my text, I feel the Montserrat compliments
 
 ## Testing
 
+## Used Assets
+
+https://www.pexels.com/photo/man-lifting-barbel-17840/
+

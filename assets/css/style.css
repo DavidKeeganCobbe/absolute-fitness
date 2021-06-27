@@ -19,7 +19,7 @@
 
 
 #menu li {
-    color:#e7833b;
+    color:#f25200;
     text-transform: uppercase;
     list-style-type: none;
     float: right;
@@ -34,9 +34,9 @@
 /* a:hover style */
 
 #menu a:hover {
-    border-bottom: 1px solid #e7833b;
+    border-bottom: 1px solid #f25200;
     transition: 1s;
-    color: #e7833b;
+    color: #f25200;
 }
 
 /* Active style class */
@@ -50,7 +50,7 @@
 
 
 h1, h2 {
-    color: #e7833b;
+    color: #f25200;
     font-size: 70px;
     font-family: Teko, sans-serif;
     font-weight: 500;
@@ -68,8 +68,8 @@ h1, h2 {
 
 #hero-image {
     
-    width: 4400px;
-    height: 3000px;
+    width: 1500px;
+    height: 1500px;
     background-image: url('../images/hero-image.jpg');
 }
 
