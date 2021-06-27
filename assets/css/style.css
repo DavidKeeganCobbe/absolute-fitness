@@ -8,6 +8,28 @@
 
 /* Nav and logo */
 
+a {
+    color:#e7833b;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+
+/* Headings and Logo style rules */
+
+h1, h2 {
+    color: #e7833b;
+    font-size: 70px;
+    font-family: Teko, sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    padding-left: 70px;
+}
+
+
+/* -- Main section -- */
 
 body {
     font-family: Montserrat, sans-serif;
@@ -15,22 +37,6 @@ body {
     color: white;
     background-color:#0a0d0e;
 }
-
-
-/* Headings and Logo style rules */
-
-h1, h2 {
-    color: #e7833b;
-    font-size: 100px;
-    font-family: Teko, sans-serif;
-    font-weight: 500;
-    text-transform: uppercase;
-}
-
-
-/* -- Main section -- */
-
-
 
 
 
