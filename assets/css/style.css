@@ -18,6 +18,7 @@ a {
 
 /* Headings and Logo style rules */
 
+
 h1, h2 {
     color: #e7833b;
     font-size: 70px;
@@ -25,7 +26,11 @@ h1, h2 {
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 5px;
-    padding-left: 70px;
+}
+
+#logo {
+    float: left;
+    font-size: 500%;
 }
 
 
