@@ -63,26 +63,19 @@ h1, h2 {
     font-size: 500%;
 }
 
-
 /* Hero Image */
 
 #hero-image {
-    
-    width: 1500px;
-    height: 1500px;
-    background-image: url('../images/hero-image.jpg');
+    width: 100%;
+    height: 1000px;
+    background: url('../images/hero-image.jpg') no-repeat center center;
 }
 
 /* Main section */
-
 
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 200;
     color: #0a0d0e;
-    
-    
 }
 
-
-/* colour black #0a0d0e */
