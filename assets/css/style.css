@@ -6,21 +6,31 @@
     border: none;
 }
 
-body h1 {
-    font-family: Teko, sans-serif;
-    font-weight: 500;
-}
+/* Nav and logo */
+
 
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 200;
-    color: #0a0d0e;
+    color: white;
+    background-color:#0a0d0e;
 }
 
-/* color orange #e7833b for font */
 
-h1 {
+/* Headings and Logo style rules */
+
+h1, h2 {
     color: #e7833b;
     font-size: 100px;
+    font-family: Teko, sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
 }
+
+
+/* -- Main section -- */
+
+
+
+
 
