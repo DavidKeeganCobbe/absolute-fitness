@@ -64,13 +64,25 @@ h1, h2 {
 }
 
 
-/* -- Main section -- */
+/* Hero Image */
+
+#hero-image {
+    
+    width: 4400px;
+    height: 3000px;
+    background-image: url('../images/hero-image.jpg');
+}
+
+/* Main section */
+
 
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 200;
-    color: white;
-    background-color:#0a0d0e;
+    color: #0a0d0e;
+    
+    
 }
 
 
+/* colour black #0a0d0e */
