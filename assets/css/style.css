@@ -13,16 +13,28 @@
     letter-spacing: 4px;
 }
 
+#menu, logo {
+    line-height: 75px;
+}
 
 
 #menu li {
     color:#e7833b;
     text-transform: uppercase;
-    text-decoration: none;
     list-style-type: none;
     float: right;
     margin-right: 30px;
-    margin-top: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+}
+
+/* a:hover style */
+
+#menu a:hover {
+    border-bottom: 1px solid #e7833b;
 }
 
 
