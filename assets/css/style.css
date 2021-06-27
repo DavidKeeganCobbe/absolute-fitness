@@ -6,12 +6,23 @@
     border: none;
 }
 
-/* Nav and logo */
+/* Navigation links and logo */
 
-a {
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+
+
+#menu li {
     color:#e7833b;
     text-transform: uppercase;
     text-decoration: none;
+    list-style-type: none;
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
 }
 
 
@@ -42,6 +53,5 @@ body {
     color: white;
     background-color:#0a0d0e;
 }
-
 
 
