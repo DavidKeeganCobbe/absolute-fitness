@@ -36,7 +36,7 @@
 #menu a:hover {
     border-bottom: 1px solid #e7833b;
     transition: 1s;
-    color: red;
+    color: #e7833b;
 }
 
 /* Active style class */
